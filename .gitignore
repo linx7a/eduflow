@@ -1,0 +1,23 @@
+# Compiled files
+target/
+*.class
+
+# IDE settings
+.idea/
+*.iml
+*.iws
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Maven
+.mvn/
+mvnw
+mvnw.cmd
+
+# Application properties (если будут пароли)
+# application-local.properties
